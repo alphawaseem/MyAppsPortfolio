@@ -7,11 +7,10 @@
         <item name="colorPrimaryDark">#1B5E20</item>
         <item name="colorAccent">#69F0AE</item>
     </style>
-    <style name="myButton" parent="Base.Widget.AppCompat.ActionButton" >
+
+    <style name="myButton" parent="Base.Widget.AppCompat.ActionButton">
 
         <item name="android:padding">10dp</item>
-        <item name="android:shadowRadius">4.0</item>
-        <item name="android:shadowColor">#69F0AE</item>
         <item name="android:layout_margin">5dp</item>
         <item name="android:background">#1B5E20</item>
         <item name="android:textColor">#FFFFFF</item>
